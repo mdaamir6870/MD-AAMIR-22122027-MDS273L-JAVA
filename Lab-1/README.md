@@ -10,8 +10,8 @@ Note: Your program should be neatly organized, with appropriate comments, variab
   
 Approach:
         
--> Start -> Import Scanner class
--> Define main method
+* -> Start -> Import Scanner class
+* -> Define main method
 -> Declare variables: name, gender, state, company, age
 -> Create Scanner object "bella"
 -> Prompt user to input employee's name, age, gender, state, and company
