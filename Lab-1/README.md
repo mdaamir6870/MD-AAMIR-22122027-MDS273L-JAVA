@@ -28,8 +28,8 @@ Note: Your program should be neatly organized, with appropriate comments, variab
   *********************************************************************************
     
     
- ** Code Out Put ***********************
-        
+ # Code Out Put 
+****************************************************************************************        
         PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA> cd Lab-1
 * PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\Lab-1> java lab1.java
 * Enter employee name: md aamir
