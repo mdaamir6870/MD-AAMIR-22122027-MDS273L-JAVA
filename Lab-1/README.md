@@ -21,9 +21,14 @@ Approach:
 * -> Print corresponding message
 * -> Check if company is one of top MNC companies
 * -> Print corresponding message
+  
+  
+  
+  
+  *********************************************************************************
     
     
- ******************** Code Out Put ***********************
+ ** Code Out Put ***********************
         
         PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA> cd Lab-1
 * PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\Lab-1> java lab1.java
@@ -32,7 +37,6 @@ Approach:
 * Enter employee gender (m/f): m
 * Enter employee state: Bihar
 * Enter employee company: Google
-
 * Employee Details:
 * Name: md aamir
 * Age: 19
@@ -40,6 +44,7 @@ Approach:
 * State: Bihar
 * Company: Google
 * The employee is working in Top MNC Companies
+  ************************************************************************************
 * PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\Lab-1> java lab1.java
 * Enter employee name: Alvin Sir
 * Enter employee age: 26
@@ -54,7 +59,7 @@ Approach:
 * State: Kerla
 * Company: Microsoft
 * The employee is working in Top MNC Companies
-        
+*********************************************************************************        
         
         
   
