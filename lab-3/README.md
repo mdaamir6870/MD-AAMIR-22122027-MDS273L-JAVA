@@ -81,49 +81,56 @@
 <br> Create an instance of the "StudentDetails" class.
 <br> Call the "menu()" method of the instance in a loop until the user chooses to exit.
 
-PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA> cd lab-3
-PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\lab-3> java lab3.java
-########### MENU ##############
-## 1. Collet Student Details###
-## 2. Display Details #########
-## 3. Search a student ########
-## 4. Quit              #######
-###############################
-Enter your choice: 
-1
-Enter the Name: Md Aamir
+*********************************************************************************************************************************************************************************
 
-Enter the Reg No: 22122027
 
-Enter the Email Id: md.aamir@msds.christuniversity.in
+********************************
+# Out Put Details:
+********************************
 
-Enter your Class:
-msds-a
-
-Enter your Department:
-Data Science
-########### MENU ##############
-## 1. Collet Student Details###
-## 2. Display Details #########
-## 3. Search a student ########
-## 4. Quit              #######
-###############################
-Enter your choice:
-2
-Name is : Md Aamir
-Reg NO is : 22122027
-Email is : md.aamir@msds.christuniversity.in
-Class is : msds-a
-Dept is : Data Science
-
-########### MENU ##############
-## 1. Collet Student Details###
-## 2. Display Details #########
-## 3. Search a student ########
-## 4. Quit              #######
-###############################
-Enter your choice:
-3
+<br> PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA> cd lab-3
+<br> PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\lab-3> java lab3.java
+<br> ########### MENU ##############
+<br> ## 1. Collet Student Details###
+<br> ## 2. Display Details #########
+<br> ## 3. Search a student ########
+<br> ## 4. Quit              #######
+<br> ###############################
+<br> Enter your choice: 
+<br> 1
+<br> Enter the Name: Md Aamir
+<br> 
+<br> Enter the Reg No: 22122027
+<br> 
+<br> Enter the Email Id: md.aamir@msds.christuniversity.in
+<br> 
+<br> Enter your Class:
+<br> msds-a
+<br> 
+<br> Enter your Department:
+<br> Data Science
+<br> ########### MENU ##############
+<br> ## 1. Collet Student Details###
+<br> ## 2. Display Details #########
+<br> ## 3. Search a student ########
+<br> ## 4. Quit              #######
+<br> ###############################
+<br> Enter your choice:
+<br> 2
+<br> Name is : Md Aamir
+<br> Reg NO is : 22122027
+<br> Email is : md.aamir@msds.christuniversity.in
+<br> Class is : msds-a
+<br> Dept is : Data Science
+<br> 
+<br> ########### MENU ##############
+<br> ## 1. Collet Student Details###
+<br> ## 2. Display Details #########
+<br> ## 3. Search a student ########
+<br> ## 4. Quit              #######
+<br> ###############################
+<br> Enter your choice 
+<br> 3
 
 
 
