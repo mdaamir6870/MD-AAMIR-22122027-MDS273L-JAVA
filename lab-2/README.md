@@ -24,27 +24,27 @@
 # Approach for this Question:
 * ******************************
 * Declare a String array to store the names, with a maximum length of 1024.
-* 
+ 
 * Create a variable to keep track of the number of names currently stored in the array. Initialize it to 0.
-* 
+ 
 * Create a do-while loop that displays the menu options until the user chooses to exit.
-* 
+ 
 * Inside the loop, display the menu options using System.out.println statements.
-* 
+ 
 * Use the Scanner class to get the user's choice from the console.
-* 
+ 
 * Use a switch-case statement to handle each menu option based on the user's choice.
-* 
+ 
 * For "Enter a name" option, prompt the user to enter a name and check if it is not already present in the array. If the name is unique, add it to the array at the next available position and increment the counter. If the array is already full, display an error message.
-* 
+
 * For "Search for a name" option, prompt the user to enter a name to search for, and then iterate through the array to check if it is present. If found, display the position of the name in the array. If not found, display a message indicating that the name was not found.
-* 
+
 * For "Remove a name" option, prompt the user to enter the name to be removed. If the name is found in the array, remove it and shift all the names that come after it to the left by one position. Decrement the counter. If the name is not found, display an error message.
-* 
+ 
 * For "Show all names" option, iterate through the array and display all the names that have been entered so far, with appropriate formatting.
-* 
+ 
 * Add a default case in the switch statement to handle invalid menu choices.
-* 
+ 
 * End the loop if the user chooses to exist.
 ****************************************************************************************************************************************************************************
 
