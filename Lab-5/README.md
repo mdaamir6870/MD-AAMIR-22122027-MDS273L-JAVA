@@ -56,3 +56,7 @@
 
 <br> Enter E to encrypt, D to decrypt, or Q to quit: Q
 <br> PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\Lab-5> 
+
+<img width="453" alt="lab-5 flowchart (1)" src="https://user-images.githubusercontent.com/97155542/236739552-49b9a175-4a4a-4b43-b96b-0758cd6d7e6e.png">
+
+
