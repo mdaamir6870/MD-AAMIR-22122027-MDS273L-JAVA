@@ -41,7 +41,7 @@
 <br>  PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\Lab-5> java lab5.java
 <br> 
 <br> Enter E to encrypt, D to decrypt, or Q to quit: E
-# Enter plaintext message:
+#### Enter plaintext message:
 * Enter plaintext message: Hello I am Aamir do not tell to pooja i am comming tomorrow. 
 #### Ciphertext: EBIIL F XJ XXJFO AL KLQ QBII QL MLLGX F XJ ZLJJFKD QLJLOOLT.
 <br> 
@@ -49,10 +49,10 @@
 <br> 
 *  Enter E to encrypt, D to decrypt, or Q to quit: D
 
-# BEnter ciphertext message: 
+#### BEnter ciphertext message: 
 * BEnter ciphertext message: EBIIL F XJ XXJFO AL KLQ QBII QL MLLGX F XJ ZLJJFKD QLJLOOLT.
  
-# Plaintext: HELLO I AM AAMIR DO NOT TELL TO POOJA I AM COMMING TOMORROW.
+#### Plaintext: HELLO I AM AAMIR DO NOT TELL TO POOJA I AM COMMING TOMORROW.
 
 <br> Enter E to encrypt, D to decrypt, or Q to quit: Q
 <br> PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\Lab-5>
