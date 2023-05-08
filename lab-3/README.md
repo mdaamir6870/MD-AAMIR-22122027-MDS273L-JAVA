@@ -81,6 +81,50 @@
 <br> Create an instance of the "StudentDetails" class.
 <br> Call the "menu()" method of the instance in a loop until the user chooses to exit.
 
+PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA> cd lab-3
+PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\lab-3> java lab3.java
+########### MENU ##############
+## 1. Collet Student Details###
+## 2. Display Details #########
+## 3. Search a student ########
+## 4. Quit              #######
+###############################
+Enter your choice: 
+1
+Enter the Name: Md Aamir
+
+Enter the Reg No: 22122027
+
+Enter the Email Id: md.aamir@msds.christuniversity.in
+
+Enter your Class:
+msds-a
+
+Enter your Department:
+Data Science
+########### MENU ##############
+## 1. Collet Student Details###
+## 2. Display Details #########
+## 3. Search a student ########
+## 4. Quit              #######
+###############################
+Enter your choice:
+2
+Name is : Md Aamir
+Reg NO is : 22122027
+Email is : md.aamir@msds.christuniversity.in
+Class is : msds-a
+Dept is : Data Science
+
+########### MENU ##############
+## 1. Collet Student Details###
+## 2. Display Details #########
+## 3. Search a student ########
+## 4. Quit              #######
+###############################
+Enter your choice:
+3
+
 
 
 
