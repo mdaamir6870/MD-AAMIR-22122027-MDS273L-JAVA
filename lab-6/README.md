@@ -1,4 +1,5 @@
-<br>Lab 6
+# Lab 6
+************************************************************************************************************************************************
 <br>Create a Student class, that will store the details of the Student, below mentioned are the attributes of a student.
 <br>Reg. No.
 <br>Name
@@ -32,9 +33,27 @@
 <br>Add proper comments in the code.
 <br>Create a flowchart using the online tool and update the README.md file.
 <br>Update the changes to the GitHub website and submit the URL.
+*********************************************************************************************************************************
 
+******************************************************
+ # Approach For This Question
+ *****************************************************
+ 
+* Create a Student class with the given attributes and methods.
+* Create a Main class with a main method.
+* Declare an array of Student objects with a maximum size of 100.
+* Implement a menu-driven program using a while loop.
+* For the "Add a student" option, create a new Student object and add it to the array.
+* For the "Search for a student" option, prompt the user for a name or register number and loop through the array to find a match.
+* For the "Update the details of a student" option, prompt the user for a name or register number, find the corresponding Student object in the array, and update its attributes.
+* For the "Display all students" option, loop through the array and print the details of each Student object.
+* For the "Save the details of each student in a file" option, loop through the array and use the toString() method to convert each Student object to a string. Then, write each string to a file with the student name as the filename.
+**********************************************************************************************************************************
+**********************************************************************************************************************************
 
-- Output Details:
+***********************************
+#  Output Details:
+***********************************
   - PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA> cd lab-6
   - PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\lab-6> javac lab6.java
   - PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\lab-6> java lab6
