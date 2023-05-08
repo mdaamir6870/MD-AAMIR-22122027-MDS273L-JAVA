@@ -32,25 +32,22 @@
 ************************************
 # Approach for this Question:
 ************************************
-### Declare a class named "StudentDetails" with the following instance variables:
+* Declare a class named "StudentDetails" with the following instance variables:
 
 * String name
 * String regNo
 * String email
 * String class
 * String department
-### Declare a two-dimensional string array named "studentArray" of size 1024 x 5 to store the details of the students.
+* Declare a two-dimensional string array named "studentArray" of size 1024 x 5 to store the details of the students.
 
-### Declare a static string array named "studentNames" of size 1024 to store the names of the students.
+* Declare a static string array named "studentNames" of size 1024 to store the names of the students.
 
-### Declare a static integer variable named "numberOfStudents" to keep track of the number of students added to the program.
+* Declare a static integer variable named "numberOfStudents" to keep track of the number of students added to the program.
 
-### Declare the following methods inside the "StudentDetails" class:
+* Declare the following methods inside the "StudentDetails" class:
 
-<br> addStudentDetails() : To collect the details of the student from the user and add it to the "studentArray" and "studentNames" arrays.
-<br> displayStudentDetails() : To display the details of a particular student given the name.
-<br> searchStudentByName() : To search for a student by name and return the index of the student in the "studentArray".
-<br> menu() : To implement the menu-driven main function of the program.
+
 ### Implement the "addStudentDetails()" method as follows:
 
 <br> Prompt the user to enter the name, register number, email, class and department of the student.
@@ -65,7 +62,7 @@
 <br> If the index is -1, display an error message.
 <br> If the index is not -1, display the details of the student.
 <br> Implement the "searchStudentByName()" method as follows:
-<br> 
+
 ### Prompt the user to enter the name of the student to search for.
 <br> Loop through the "studentNames" array to find the index of the student.
 <br> If the student is found, return the index.
