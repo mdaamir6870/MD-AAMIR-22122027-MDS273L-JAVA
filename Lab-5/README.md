@@ -42,9 +42,8 @@
 <br> 
 <br> Enter E to encrypt, D to decrypt, or Q to quit: E
 # Enter plaintext message:
-* Enter plaintext message: Hello I am Aamir do not tell to pooja i am comming tomorrow.
-<br> 
-# Ciphertext: EBIIL F XJ XXJFO AL KLQ QBII QL MLLGX F XJ ZLJJFKD QLJLOOLT.
+* Enter plaintext message: Hello I am Aamir do not tell to pooja i am comming tomorrow. 
+#### Ciphertext: EBIIL F XJ XXJFO AL KLQ QBII QL MLLGX F XJ ZLJJFKD QLJLOOLT.
 <br> 
 ****************************************************************************************************************
 <br> 
