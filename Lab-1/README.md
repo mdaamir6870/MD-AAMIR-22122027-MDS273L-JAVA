@@ -1,4 +1,7 @@
-Question :
+******************************************
+# LAB-1
+# Question :
+****************************************************
 
 <br> Write a Java Program that will collect an employee's basic details that fall into different data types and displays them.
 <br> After the details have been displayed, with the help of conditional statements, check if the gender of the employee is 'm' or 'f'. It should print "MALE" for 'm' and "FEMALE" for 'f'.
@@ -8,7 +11,7 @@ Question :
 <br> Note: Your program should be neatly organized, with appropriate comments, variable names, proper input output formatting, and necessary validations.
   
   
-# Approach:
+# Approach For this Question:
         
 * -> Start -> Import Scanner class
 * -> Define main method
@@ -25,9 +28,12 @@ Question :
   
   
   
+ 
   *********************************************************************************
+  
+  
     
-    
+****************************************************************************************    
  # Code Out Put 
 ****************************************************************************************        
         PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA> cd Lab-1
@@ -44,6 +50,8 @@ Question :
 * State: Bihar
 * Company: Google
 * The employee is working in Top MNC Companies
+  
+  
   ************************************************************************************
 * PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\Lab-1> java lab1.java
 * Enter employee name: Alvin Sir
