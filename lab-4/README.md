@@ -55,3 +55,65 @@
 * In the Print transactions option, call the printTransactions method to display all the transaction details.
 * In the Print account summary option, call the printAccountSummary method to display the account number, account holder name, and account balance.
 * Repeat the menu until the user selects the Exit option.
+ 
+ ******************************************************************************************************************************************************************
+ 
+ ****************************
+ # Out Put Details :
+ ****************************
+<br> PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA> cd lab-4
+<br> PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\lab-4> java lab4.java
+<br> ############## MENU ##############
+<br> ## 2. Deposit Money ##############
+<br> ## 3. Withdraw Money #############
+<br> ## 4. Print All the transctions. #
+<br> ## 5. Print Account Summary. #####
+<br> ## 6. Logout. ####################
+<br> #####################################
+<br> 2
+<br> Enter the amount to deposit the money: 99999
+<br> ############## MENU ##############
+<br> ## 2. Deposit Money ##############
+<br> ## 3. Withdraw Money #############
+<br> ## 4. Print All the transctions. #
+<br> ## 5. Print Account Summary. #####
+<br> ## 6. Logout. ####################
+<br> #####################################
+<br> 3
+<br> Enter the amount to withdraw the money: 
+<br> 200
+<br> ############## MENU ##############
+<br> ## 2. Deposit Money ##############
+<br> ## 3. Withdraw Money #############
+<br> ## 4. Print All the transctions. #
+<br> ## 5. Print Account Summary. #####
+<br> ## 6. Logout. ####################
+<br> #####################################
+<br> 4
+<br> Transction details are: 
+<br> Money deposit : 99999.0 Time 11:11:29.378147800 Previous bal: 2.2222222E7 New bal2.2322221E7
+<br> Money Withdraw : 200.0 Time 11:11:37.606586400 Previous bal: 2.2322221E7 New bal2.2322021E7
+<br> ############## MENU ##############
+<br> ## 2. Deposit Money ##############
+<br> ## 3. Withdraw Money #############
+<br> ## 4. Print All the transctions. #
+<br> ## 5. Print Account Summary. #####
+<br> ## 6. Logout. ####################
+<br> #####################################
+<br> 5
+<br> welcome md aamir
+<br> Current Login Time: 11:11:49.532468600
+<br>  Your Account number is 22122027
+<br> Yout total account balance is :2.2322021E7
+<br> ############## MENU ##############
+<br> ## 2. Deposit Money ##############
+<br> ## 3. Withdraw Money #############
+<br> ## 4. Print All the transctions. #
+<br> ## 5. Print Account Summary. #####
+<br> ## 6. Logout. ####################
+<br> #####################################
+<br> 6
+<br> Thanks for using our bank.
+<br> PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\lab-4>
+
+ 
