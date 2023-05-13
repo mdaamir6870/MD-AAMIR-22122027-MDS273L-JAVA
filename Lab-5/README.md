@@ -67,3 +67,6 @@
 
 
 
+![lab5](https://github.com/mdaamir6870/MD-AAMIR-22122027-MDS273L-JAVA/assets/97155542/91d66cfb-3107-4189-ac5f-a30cb03258dc)
+
+
