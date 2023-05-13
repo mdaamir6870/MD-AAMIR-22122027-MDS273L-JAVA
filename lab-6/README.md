@@ -131,3 +131,9 @@
   - Press 5 to write info to file
   - Press 6 to Exit the program
   - Enter Your Choice:
+  ******************************************************************************************************************************
+  
+  # Flow Chart
+  *******************
+  
+![lab6](https://github.com/mdaamir6870/MD-AAMIR-22122027-MDS273L-JAVA/assets/97155542/61225759-caf7-4111-91c8-ec1e66cb34a4)
