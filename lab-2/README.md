@@ -138,6 +138,8 @@
 
 
 
+![lab2](https://github.com/mdaamir6870/MD-AAMIR-22122027-MDS273L-JAVA/assets/97155542/cea162aa-88bd-405c-9b5e-2dc5f76c926b)
+
 
 
 
