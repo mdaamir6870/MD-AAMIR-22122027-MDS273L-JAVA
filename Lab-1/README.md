@@ -36,41 +36,48 @@
 ****************************************************************************************    
  # Code Out Put 
 ****************************************************************************************        
-        PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA> cd Lab-1
-* PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\Lab-1> java lab1.java
-* Enter employee name: md aamir
+* PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\lab-1> java lab1.java
+* Enter employee name: Aamir
 * Enter employee age: 19
-* Enter employee gender (m/f): m
-* Enter employee state: Bihar
+* Enter employee state: Goa
 * Enter employee company: Google
+* 
 * Employee Details:
-* Name: md aamir
+* Name: Aamir
 * Age: 19
 * Gender: MALE
-* State: Bihar
+* State: Goa
 * Company: Google
-* The employee is working in Top MNC Companies
+* The Employee is from the west state of India; Preferable work location is in GoaThe employee is working in Top MNC Companies
   
+  ***********************************************************************************************************************************************************
   
-  ************************************************************************************
-* PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\Lab-1> java lab1.java
-* Enter employee name: Alvin Sir
-* Enter employee age: 26
+* PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\lab-1> java lab1.java
+* Enter employee name: Alvin
+* Enter employee age: 27
 * Enter employee gender (m/f): m
-* Enter employee state: Kerla
-* Enter employee company: Microsoft
-
+* Enter employee state: Karnataka
+* Enter employee company: IBM
+* 
 * Employee Details:
-* Name: Alvin Sir
-* Age: 26
+* Name: Alvin
+* Age: 27
 * Gender: MALE
-* State: Kerla
-* Company: Microsoft
-* The employee is working in Top MNC Companies
-*********************************************************************************        
+* State: Karnataka
+* Company: IBM
+* The Employee is from the southern states of India; Preferable work location is in KarnatakaThe employee is working in Top MNC Companies
+* PS C:\Users\yrmda\MD-AAMIR-22122027-MDS273L-JAVA\lab-1>
+
+*********************************************************************************  
+  
+  ********************
+  # Flow Chart
+  ********************
+  
         
         
   
+![lab1](https://github.com/mdaamir6870/MD-AAMIR-22122027-MDS273L-JAVA/assets/97155542/2059723e-0b84-4064-b09e-cbbcec3e2631)
 
 
   
